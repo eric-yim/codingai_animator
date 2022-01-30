@@ -1,0 +1,39 @@
+{
+  "joint_shape": [
+    576,
+    1024
+  ],
+  "scene_shape": [
+    1024,
+    1024
+  ],
+  "output_inds": [
+    [
+      0,
+      0
+    ],
+    [
+      576,
+      1024
+    ]
+  ],
+  "translate_info": [],
+  "bodies": [
+    {
+      "id": 1,
+      "start_frame": 0,
+      "render_order": -1,
+      "joint_info": "projects\\demo\\scene\\1.json",
+      "body_info": {
+        "name": {
+          "body_input": "jerry_smith",
+          "render_info": "config/render_info.json",
+          "use_proportion": true,
+          "frames": [
+            0
+          ]
+        }
+      }
+    }
+  ]
+}

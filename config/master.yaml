@@ -1,0 +1,28 @@
+project_name: demo
+project_dir: projects
+openpose_dir: openpose
+scene_dir: scene
+rig_dir: rig
+video_dir: videos
+input: itsmirandaderrick.mp4
+bdir: source_videos
+input_shape:
+- 576
+- 1024
+output_shape:
+- 576
+- 1024
+scene_shape:
+- 1024
+- 1024
+link_list: config/body_links.txt
+body_bdir: characters
+vid_bdir: backgrounds
+sample_body: config/stand.json
+file_ext: .png
+render_list: config/render_info.json
+proportion_body: proportion.json
+body_input: jerry_smith
+render_bg: gallery2.jpg
+render_steps: -1
+render_alpha: 1.0

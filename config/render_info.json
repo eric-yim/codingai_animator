@@ -1,0 +1,55 @@
+[
+    {
+      "part":"left_shoulder,left_hip,right_hip,right_shoulder",
+      "order":0,
+      "render_style":"standard"
+    },
+    {
+      "part":"left_hip,left_knee",
+      "order":-2,
+      "render_style":"dynamic_width"
+    },
+    {
+      "part":"right_hip,right_knee",
+      "order":-1,
+      "render_style":"dynamic_width"
+    },
+    {
+      "part":"left_knee,left_ankle",
+      "order":1,
+      "render_style":"dynamic_width"
+    },
+    
+    {
+      "part":"right_knee,right_ankle",
+      "order":2,
+      "render_style":"dynamic_width"
+    },
+    {
+      "part":"right_shoulder,right_elbow",
+      "order":7,
+      "render_style":"dynamic_width"
+    },
+    
+    {
+      "part":"left_shoulder,left_elbow",
+      "order":7,
+      "render_style":"dynamic_width"
+    },
+    {
+      "part":"left_ear,right_ear",
+      "order":8,
+      "render_style":"dynamic_size"
+    },
+    
+    {
+      "part":"left_elbow,left_wrist",
+      "order":9,
+      "render_style":"dynamic_width"
+    },
+    {
+      "part":"right_elbow,right_wrist",
+      "order":9,
+      "render_style":"dynamic_width"
+    }
+]

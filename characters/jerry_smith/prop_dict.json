@@ -1,0 +1,10 @@
+{
+  "left_shoulder,left_elbow": 1.0,
+  "left_elbow,left_wrist": 1.0,
+  "right_shoulder,right_elbow": 1.0,
+  "right_elbow,right_wrist": 1.0,
+  "left_hip,left_knee": 1.0,
+  "left_knee,left_ankle": 1.0,
+  "right_hip,right_knee": 1.0,
+  "right_knee,right_ankle": 1.0
+}
